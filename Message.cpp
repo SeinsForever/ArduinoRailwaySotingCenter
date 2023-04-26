@@ -247,8 +247,6 @@ void Message::messageProcessing() //21ms
 }
 
 
-
-
 void Message::debugRecievedMessageEdit(long fakeReceivedMessage)
 {
   _recievedMessage = fakeReceivedMessage;
